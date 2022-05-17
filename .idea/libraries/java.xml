@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/commons-csv-1.9.0-src.zip!/commons-csv-1.9.0-src/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/commons-csv-1.9.0-src.zip!/commons-csv-1.9.0-src/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/commons-csv-1.9.0-src/commons-csv-1.9.0-src/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/commons-csv-1.9.0-src/commons-csv-1.9.0-src/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
